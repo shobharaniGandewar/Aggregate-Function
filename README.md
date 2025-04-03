@@ -1,6 +1,5 @@
 # Aggregate-Function
-Table Setup
-First, let’s set up a table with sample data that will be used for these questions:
+
 CREATE TABLE sales (
 sale_id INT AUTO_INCREMENT PRIMARY KEY,
 product_name VARCHAR(255),
